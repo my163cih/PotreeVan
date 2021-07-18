@@ -1,4 +1,3 @@
-build
 /test
 /test1
 /360
@@ -37,5 +36,4 @@ pointclouds/F
 .github
 .vscode
 docs
-examples
 potree-develop.zip
