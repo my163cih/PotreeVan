@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.editor.enablePreview": false,
+    "files.associations": {
+      "*.vs": "cpp",
+      "*.fs": "cpp"
+    },
+    "workbench.tree.indent": 30
+  }
+}
